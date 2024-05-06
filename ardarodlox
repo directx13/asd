@@ -52,7 +52,6 @@ for i, v in next, tab do
     return true
   end
 end
-end
 
 local TweenService = game:GetService("TweenService");
 local UserInputService = game:GetService("UserInputService")
